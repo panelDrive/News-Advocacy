@@ -1,2 +1,2 @@
-# Social-Advocacy
-Social Advocacy Extension
+# News-Advocacy
+News Advocacy Extension
